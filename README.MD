@@ -11,8 +11,8 @@ I don't just study intelligent systems — I build them.
 </p>
 
 <!-- Hero Animation -->
-<p align="center">
-<img width="700" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
+<p align="right">
+<img width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </p>
 
 ---
