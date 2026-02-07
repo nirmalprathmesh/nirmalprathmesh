@@ -3,21 +3,20 @@
 <h1 align="center">Hi 👋 I'm Prathmesh Nirmal</h1>
 
 <h3 align="center">
-AI & Data Science Student • Machine Learning Builder • Future ML Engineer
+Data Science • Machine Learning • AI Systems
 </h3>
 
 <p align="center">
-I don't just study intelligent systems — I build them.
+“Engineering intelligence through data.”
 </p>
 
-<!-- Hero Animation -->
-<p align="right">
-<img width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</p>
+
 
 ---
 
 ## 🧠 About Me
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 I am currently pursuing a degree in **Artificial Intelligence & Data Science**, focused on developing the skills required to engineer real-world intelligent systems.
 
@@ -38,11 +37,12 @@ My mission is simple:
 
 ## 🚀 Current Trajectory
 
-🔹 Machine Learning & Model Optimization  
-🔹 Large Language Models (LLMs)  
-🔹 Retrieval-Augmented Generation (RAG)  
-🔹 Data Structures & Algorithms  
-🔹 Writing scalable, production-style Python  
+🔹 Data Analysis & Exploratory Data Analysis (EDA)  
+🔹 Statistical Thinking for Data-Driven Decisions  
+🔹 Machine Learning Algorithms & Model Evaluation  
+🔹 Feature Engineering & Data Preprocessing  
+🔹 Large Language Models (LLMs) and Retrieval-Augmented Generation   
+🔹 Strengthening Data Structures & Algorithms for problem-solving  
 
 I am intentionally focusing on **depth over hype technologies.**
 
@@ -55,7 +55,7 @@ I am intentionally focusing on **depth over hype technologies.**
 Python • C++
 
 
-**Environment & Tools**
+### Environment & Tools
 Git • GitHub • Jupyter Notebook • VS Code
 
 ### Selected Work
