@@ -1,45 +1,57 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= HERO ================= -->
 
-<h1 align="center">Prathmesh Nirmal</h1>
+<h1 align="center">Hi 👋 I'm Prathmesh Nirmal</h1>
 
 <h3 align="center">
-Aspiring Data Scientist • Machine Learning Explorer • Problem Solver
+AI & Data Science Student • Machine Learning Builder • Future ML Engineer
 </h3>
 
 <p align="center">
-Turning data into intelligence, one model at a time.
+I don't just study intelligent systems — I build them.
+</p>
+
+<!-- Hero Animation -->
+<p align="center">
+<img width="700" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
 </p>
 
 ---
 
-<!-- Animated Visual -->
-<img align="right" width="420" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
+## 🧠 About Me
 
-### Who Am I?
+I am currently pursuing a degree in **Artificial Intelligence & Data Science**, focused on developing the skills required to engineer real-world intelligent systems.
 
-I am a second-year Computer Science student driven by curiosity and the desire to understand **how intelligent systems think**.
+My primary interest lies in understanding how data can be transformed into predictive power and actionable intelligence.
 
-Rather than just learning theory, I focus on building projects that challenge me to grow — from predictive models to AI-powered applications.
+Instead of limiting myself to coursework, I actively build projects that strengthen my ability to:
 
-My long-term goal is simple:
+✔️ Think analytically  
+✔️ Design machine learning solutions  
+✔️ Work with real datasets  
+✔️ Solve meaningful problems  
 
-👉 **Build data-driven systems that people actually rely on.**
+My mission is simple:
 
----
-
-### What I’m Focused On Right Now
-
-- Machine Learning fundamentals  
-- Large Language Models (LLMs)  
-- Retrieval-Augmented Generation (RAG)  
-- Data Structures & Algorithms  
-- Writing cleaner, production-style Python  
+> **Become an engineer capable of building systems that people trust and depend on.**
 
 ---
 
-### Technical Toolkit
+## 🚀 Current Trajectory
 
-**Languages**
+🔹 Machine Learning & Model Optimization  
+🔹 Large Language Models (LLMs)  
+🔹 Retrieval-Augmented Generation (RAG)  
+🔹 Data Structures & Algorithms  
+🔹 Writing scalable, production-style Python  
+
+I am intentionally focusing on **depth over hype technologies.**
+
+---
+
+## 🛠 Technical Arsenal
+
+### Languages
+
 Python • C++
 
 
